@@ -1,4 +1,4 @@
-# Documentação FishPro - Sistema de Gerenciamento de Torneios
+# Documentação FishPro - Sistema de Gerenciamento de Torneios de Pesca
 
 ## 1. Introdução
 O FishPro é uma aplicação web projetada para permitir que os usuários criem, gerenciem e acompanhem torneios esportivos. Este documento descreve a arquitetura geral do sistema, incluindo sua estrutura de dados, casos de uso e fluxos de interação do usuário.
